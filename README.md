@@ -1,9 +1,9 @@
-This OS is made using NASM and simple C language.
-This 64-bit OS only shows the text which we wants as a output( in my case it is seecs). 
-The Software required to make this OS are:
-1- Docker.
-2- Visual Studio Code.
-3- Qemu.
+This OS is made using NASM and simple C language.<br>
+This 64-bit OS only shows the text which we wants as a output( in my case it is seecs). <br>
+The Software required to make this OS are: <br>
+1- Docker.<br>
+2- Visual Studio Code.<br>
+3- Qemu.<br>
 
 OUTPUT OF MY OS: 
 
